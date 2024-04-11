@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PadhmaSini29/expense_tracker.git/static/css/main.f855e6bc.css",
+    "main.js": "/PadhmaSini29/expense_tracker.git/static/js/main.5164b976.js",
+    "static/js/787.c25e7dc6.chunk.js": "/PadhmaSini29/expense_tracker.git/static/js/787.c25e7dc6.chunk.js",
+    "index.html": "/PadhmaSini29/expense_tracker.git/index.html",
+    "main.f855e6bc.css.map": "/PadhmaSini29/expense_tracker.git/static/css/main.f855e6bc.css.map",
+    "main.5164b976.js.map": "/PadhmaSini29/expense_tracker.git/static/js/main.5164b976.js.map",
+    "787.c25e7dc6.chunk.js.map": "/PadhmaSini29/expense_tracker.git/static/js/787.c25e7dc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5164b976.js"
+  ]
+}
